@@ -1,4 +1,4 @@
-name: Zoot
-phone: 1234
-name: Boop
-phone: 666
+name:Zoot
+phone:1234
+name:Boop
+phone:666
